@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1
+
+- Added support for model tags
+
+
 ## 0.2.0
 
 - Final pre-release pass to streamline and tidy README.md and script comments

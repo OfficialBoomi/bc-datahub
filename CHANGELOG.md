@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.2.4
+
+- Distinguish missing-arg from missing-file in model.sh create
+
+
+## 0.2.3
+
+- Fix publish --notes rejecting XML special characters
+
+
+## 0.2.2
+
+- Clarify that published models accept new fields
+
+
 ## 0.2.1
 
 - Added support for model tags

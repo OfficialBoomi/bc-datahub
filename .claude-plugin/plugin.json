@@ -1,7 +1,7 @@
 {
   "name": "bc-datahub",
   "description": "Designs and operates Boomi DataHub master data — model and source design, deployment lifecycle, quarantine triage, and golden-record CRUD — when the user works with Boomi DataHub (MDM) configuration or stewardship. Pairs nicely with the boomi-integration skill.",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "author": {
     "name": "Boomi"
   }

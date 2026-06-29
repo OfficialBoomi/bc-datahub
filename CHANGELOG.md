@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.5
+
+- golden-record.sh: fail fast on missing --universe
+
+
 ## 0.2.4
 
 - Distinguish missing-arg from missing-file in model.sh create

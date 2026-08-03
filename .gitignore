@@ -3,4 +3,8 @@ build-state.md
 reference/
 hook-logs/
 CLAUDE.local.md
+AGENTS.md
+AGENTS.override.md
+.agents/
+.codex/
 .vscode/

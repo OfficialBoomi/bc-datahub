@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.6
+
+- Full pass to ensure correctly formatted Data Hub name in prose
+
+
 ## 0.2.5
 
 - golden-record.sh: fail fast on missing --universe

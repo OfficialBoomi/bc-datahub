@@ -2,6 +2,7 @@ build-state.md
 .claude/settings.local.json
 reference/
 hook-logs/
+CLAUDE.md
 CLAUDE.local.md
 AGENTS.md
 AGENTS.override.md
